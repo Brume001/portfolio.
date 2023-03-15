@@ -18,7 +18,7 @@ export const projectsData = [
         image: Work3,
         title:' dashboard design',
         category:'design',
-        demo:''
+        demo:'https://brume001.github.io/dashboard/'
     },
     {
         id: 4,
