@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio./static/css/main.81e456b3.css",
+    "main.js": "/portfolio./static/js/main.b063fc18.js",
+    "static/media/pexels-jan-van-der-wolf-13565268.jpg": "/portfolio./static/media/pexels-jan-van-der-wolf-13565268.05ae75db31695c61ca77.jpg",
+    "static/media/Document - Google Chrome 3_13_2023 10_44_01 AM.png": "/portfolio./static/media/Document - Google Chrome 3_13_2023 10_44_01 AM.aeacbd33d69634a8350f.png",
+    "static/media/Document - Google Chrome 3_13_2023 9_57_43 AM.png": "/portfolio./static/media/Document - Google Chrome 3_13_2023 9_57_43 AM.f66393afa134f469092a.png",
+    "static/media/Document - Google Chrome 3_13_2023 7_46_37 AM (2).png": "/portfolio./static/media/Document - Google Chrome 3_13_2023 7_46_37 AM (2).125f708099aac0a91775.png",
+    "static/media/core-navigation-menu - Google Chrome 4_7_2023 3_13_24 AM.png": "/portfolio./static/media/core-navigation-menu - Google Chrome 4_7_2023 3_13_24 AM.26a2bef2abf6a94b331e.png",
+    "static/media/IMG_20230314_120444.jpg": "/portfolio./static/media/IMG_20230314_120444.326de073e3fbb1850b64.jpg",
+    "static/media/Desmonds CV.pdf": "/portfolio./static/media/Desmonds CV.1f81262cf7ddbc8177f8.pdf",
+    "index.html": "/portfolio./index.html",
+    "main.81e456b3.css.map": "/portfolio./static/css/main.81e456b3.css.map",
+    "main.b063fc18.js.map": "/portfolio./static/js/main.b063fc18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e456b3.css",
+    "static/js/main.b063fc18.js"
+  ]
+}
