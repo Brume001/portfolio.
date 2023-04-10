@@ -8,9 +8,9 @@ const Data = () => {
                 <i class="fa-light fa-hand-wave"></i>
             </h1>
             <h3 className="home__subtitle">Web Developer</h3>
-            <p className="home__description">I am a creative designer based in Nigeria, and I'm very passionate and dedicated to my work.</p>
+            <p className="home__description">I'm a Frontend Developer with interest in art and web applications. I'm looking forward to grow and improving my skills with new,fun and exiting projects</p>
 
-            <a href="#" className="button button--flex">
+            <a href="#contact" className="button button--flex">
                 Say Hello 
                 
             </a>

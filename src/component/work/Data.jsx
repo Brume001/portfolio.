@@ -1,7 +1,7 @@
-import Work1 from "../../assets/Photo Collage Maker_2023_03_13_09_11_40.png"
-import Work2 from "../../assets/pexels-jan-van-der-wolf-13565268.jpg"
-import Work3 from "../../assets/Photo Collage Maker_2023_03_13_10_01_44.png"
-import Work4 from "../../assets/Photo Collage Maker_2023_03_13_10_47_39.png"
+import Work1 from "../../assets/Document - Google Chrome 3_13_2023 7_46_37 AM (2).png"
+import Work2 from "../../assets/core-navigation-menu - Google Chrome 4_7_2023 3_13_24 AM.png"
+import Work3 from "../../assets/Document - Google Chrome 3_13_2023 10_44_01 AM.png"
+import Work4 from "../../assets/Document - Google Chrome 3_13_2023 9_57_43 AM.png"
 import Work5 from "../../assets/pexels-jan-van-der-wolf-13565268.jpg"
 
 export const projectsData = [
@@ -10,22 +10,29 @@ export const projectsData = [
         image: Work1,
         title:'web',
         category:'web',
-        demo:''
+        demo:'https://github.com/Brume001/medicare'
+    },
+    {
+        id: 2,
+        image: Work2,
+        title:'web',
+        category:'design',
+        demo:'https://github.com/Brume001/navigation'
     },
     
     {
         id: 3,
         image: Work3,
-        title:' dashboard design',
+        title:' ',
         category:'design',
-        demo:'4'
+        demo:'https://github.com/Brume001/portfolio_'
     },
     {
         id: 4,
         image: Work4,
-        title:'web',
+        title:'dashboard design',
         category:'web',
-        demo:'https://google.com'
+        demo:'https://github.com/Brume001/dashboard'
     },
 
 ];

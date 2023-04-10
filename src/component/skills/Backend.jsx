@@ -12,23 +12,16 @@ const Backend = () => {
 
                         <div>
                             <h3 className="skills__name">PYTHON</h3>
-                            <span className="skills__level">INTERMEDIATE</span>
-                        </div>
-                    </div>
-                    <div className="skills__data">
-                        <i class="bx bx-badge-check"></i>
-
-                        <div>
-                            <h3 className="skills__name">PHP</h3>
                             <span className="skills__level">BASIC</span>
                         </div>
                     </div>
+                    
                     <div className="skills__data">
                         <i class="bx bx-badge-check"></i>
 
                         <div>
                             <h3 className="skills__name">DJANGO</h3>
-                            <span className="skills__level">ADVANCED</span>
+                            <span className="skills__level">INTERMEDIATE</span>
                         </div>
                     </div>
                 </div>
