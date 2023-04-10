@@ -27,7 +27,7 @@ const Services = () => {
 
                             <h3 className="services__modal-title">UX/UI Design</h3>
                             <p className="services__modal-description">
-                                Service with more than 2 years of experience. 
+                                Service with more than 1 year of experience. 
                             </p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
@@ -105,7 +105,7 @@ const Services = () => {
 
                             <h3 className="services__modal-title">Web Development</h3>
                             <p className="services__modal-description">
-                                Service with more than 2 years of experience. Providing quality work to clients and companies.
+                                Service with up to 2 years of experience. Providing quality work to clients and companies.
                             </p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">

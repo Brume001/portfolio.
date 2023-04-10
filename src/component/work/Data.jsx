@@ -10,22 +10,15 @@ export const projectsData = [
         image: Work1,
         title:'web',
         category:'web',
-        demo:'https://github.com/Brume001/medicare'
-    },
-    {
-        id: 2,
-        image: Work2,
-        title:'web',
-        category:'design',
-        demo:'https://github.com/Brume001/navigation'
+        demo:''
     },
     
     {
         id: 3,
         image: Work3,
-        title:' ',
+        title:' web',
         category:'design',
-        demo:'https://github.com/Brume001/portfolio_'
+        demo:'4'
     },
     {
         id: 4,

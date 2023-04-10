@@ -53,7 +53,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">Animal and Environmental Biology BSc.</h3>
                                 <span className="qualification__subtitle">Nigeria - UNIPORT</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender"></i>2020 - Present
+                                    <i className="uil uil-calender"></i>2018 - Present
                                 </div>
                             </div>
                             <div>
@@ -123,7 +123,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">Google Analytics</h3>
                                 <span className="qualification__subtitle">Nigeria </span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender"></i>2022
+                                    <i className="uil uil-calender"></i>2023
                                 </div>
                             </div>
 
